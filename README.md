@@ -4,7 +4,7 @@
 
 This is an interactive tutorial that will teach you how to create an API using the Python Flask framework using Python and Pipenv. Please click here to start the tutorial:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/breatheco-de/python-flask-api-tutorial)
+[![Open this in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/breatheco-de/python-flask-api-tutorial)
 
 
 ## About the project we are going to build
