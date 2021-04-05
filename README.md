@@ -49,5 +49,5 @@ And return the updated list of todos
 
 ### DELETE /todos/<int:position>
 
-It's going to remove one todo based on a given position at the end of the url, and return the updated list of todos.
+It's going to remove one todo based on a given position at the end of the URL, and return the updated list of todos.
 
